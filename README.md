@@ -9,9 +9,10 @@
   <a href="https://github.com/mushtaqak"><img src="https://img.shields.io/github/followers/mushtaqak.svg?label=GitHub&style=social" alt="GitHub"></a>  
 </p>
 
-- 🔭 I’m currently working on IoT domain in **Intech Process Automation**.
-- 📱 Worked on multiple projects throughout my career varying from e-learning systems to travel systems to IoT based systems to custom projects.
+- 🔭 I’m currently working on IoT domain in [Intech Process Automation](https://www.intechww.com).
+- 📱 Worked on multiple projects throughout my career varying from e-learning to travel travel to IoT based systems.
 - 💻 Open Source contributor - [django/django](https://github.com/django/django), [edx/edx-platform](https://github.com/edx/edx-platform) and more.
+- 🏢 Past companies: [Arbisoft](http://arbisoft.com), [edX](http://edx.org), [MindBlaze Tech](https://www.mindblaze.net)
 - 🌱 I’m currently learning *Arabic*, GraphQL and **people**.
 - 💬 Ask me about fictional novels, es6, python.
 - 📫 How to reach me: Email me at **mushtaak@gmail.com**
