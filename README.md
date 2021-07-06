@@ -2,13 +2,16 @@
 
 ![](https://avatars1.githubusercontent.com/u/6991154?s=460&u=1bb0de6216b3b5535cd651b2ef80042bb3f645b4&v=4)
 
-<br>
-<p align="center">
+---
+<p align="left">
+        <img src="https://komarev.com/ghpvc/?username=mushtaqak&label=Profile%20views&color=0e75b6&style=flat" alt="mushtaqak" /> 
 	<a href="https://twitter.com/mushtaqak"><img src="https://img.shields.io/twitter/follow/mushtaqak?label=@mushtaqak&style=social" alt="Twitter"></a>  
 	<a href="https://www.linkedin.com/in/mushtaqak"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
-  <a href="https://github.com/mushtaqak"><img src="https://img.shields.io/github/followers/mushtaqak.svg?label=GitHub&style=social" alt="GitHub"></a>  
+        <a href="https://github.com/mushtaqak"><img src="https://img.shields.io/github/followers/mushtaqak.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mushtaqak" alt="mushtaqak" /></a></p>
 
+---									
 - 🔭 I’m currently working on IoT domain in [Intech Process Automation](https://www.intechww.com).
 - 📱 Worked on multiple projects throughout my career varying from e-learning to travel travel to IoT based systems.
 - 💻 Open Source contributor - [django/django](https://github.com/django/django), [edx/edx-platform](https://github.com/edx/edx-platform) and more.
@@ -20,6 +23,8 @@
 - ⚡ Fun fact: I have graduated in 2013 ;)
 
 ---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushtaqak&show_icons=true&locale=en&layout=compact" alt="mushtaqak" /></p>
+
 <!--
 **mushtaqak/mushtaqak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
