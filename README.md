@@ -23,7 +23,10 @@
 - ⚡ Fun fact: I have graduated in 2013 ;)
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushtaqak&show_icons=true&locale=en&layout=compact" alt="mushtaqak" /></p>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushtaqak&show_icons=true&locale=en&layout=compact" alt="mushtaqak" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=mushtaqak&show_icons=true&locale=en" alt="mushtaqak" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mushtaqak&" alt="mushtaqak" /></p>
 
 <!--
 **mushtaqak/mushtaqak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
