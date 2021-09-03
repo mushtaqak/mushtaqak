@@ -16,6 +16,7 @@
 - 📱 Worked on multiple projects throughout my career varying from e-learning to travel travel to IoT based systems.
 - 💻 Open Source contributor - [django/django](https://github.com/django/django), [edx/edx-platform](https://github.com/edx/edx-platform) and more.
 - 🏢 Past companies: [Arbisoft](http://arbisoft.com), [edX](http://edx.org), [MindBlaze Tech](https://www.mindblaze.net)
+- Find more about me at https://mushtaqak.github.io
 - 🌱 I’m currently learning *Arabic*, GraphQL and **people**.
 - 💬 Ask me about fictional novels, es6, python.
 - 📫 How to reach me: Email me at **mushtaak@gmail.com**
